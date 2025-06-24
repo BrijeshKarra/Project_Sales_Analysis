@@ -25,7 +25,6 @@ Related Query: [1_customer_segmentation.sql](/1_customer_segmentation.sql)
 |3-High-Value|135429277.26|65.61|12372|10946.43|
 |2-Mid-Value|66636451.78|32.28|24743|2693.14|
 |1-Low-Value|4341809.52|2.10|12372|350.94|
-
 _Table 1_
 
 
