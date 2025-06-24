@@ -35,7 +35,7 @@ _Table 1_
 _Figure 1_
 
 **Key Findings:**
-- High-value segment (25% of customers) drives 66% of revemue ($135.4M).
+- High-value segment (25% of customers) drives 66% of revenue ($135.4M).
 - Mid-value segment (50% of customers) generates 32% of revenue ($66.6M).
 - Low-value segment (25% of customers) contributes only 2% of revenue ($4.3M).
 
