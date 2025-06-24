@@ -12,9 +12,9 @@ The project is inspired by the online course [SQL for Data Analytics – Interme
 ## Analysis Approach
 ### 1. Customer Segmentation Analysis
 
-- Categorized customers bsaed on total lifetime value (LTV)
+- Categorized customers based on total lifetime value (LTV)
 - Calculated Key metrics: total revenue
-- Tiered customers to High, Mid, and Low-value segemts based on their revenue being above 75th, between 75th and 25th , and below 25th percentile of the total revenue respectively
+- Tiered customers to High, Mid, and Low-value segemts based on their revenue being above 75th, between 75th and 25th , or below 25th percentile of the total revenue respectively
 
 
 Related Query: [1_customer_segmentation.sql](/1_customer_segmentation.sql)
@@ -40,7 +40,7 @@ _Figure 1_
 - Low-value segment (25% of customers) contributes only 2% of revenue ($4.3M).
 
 **Business Insights**
-- High-Value (66% revenue): Offer premium membership program to 12,372 VIP customers, as losing one customer significantly impacts revenue.
+- High-Value (66% revenue): Offer premium membership program to the 12,372 VIP customers, as losing one customer significantly impacts revenue.
 - Mid-Value (32% revenue): Create upgrade paths through personalized promotions, with potential $66.6M → $135.4M revenue opportunity.
 - Low-Value (2% revenue): Design re-engagement campaigns and price-sensitive promotions to increase purchase frequency.
 
@@ -65,10 +65,10 @@ _Figure 2.1_
 _Figure 2.2_
 
 **Key Findings:**
-- The sudden dip in 2020's revenue might have occured because of the pandemic (Figure 2.1).
-- Between 2015-2021, the customers to customer revenue relation is approximatley linear, however, between 2022-2024, there are large gaps between number of customers and net revenue. The increase in number of customers number do not match the increase in the net revenue (Figure 2.1).
-  - This can be related to the decreasing exponential trend in _Figure 2.2_ which implies that the revenue per customer is lowering at a an alarming rate.
-  - This also implies how 2022-2024 cohorts are consistently performing worse than earlier cohorts in _Figure 2.2_.
+- The sudden dip in 2020 revenue might have occured due to the pandemic (Figure 2.1).
+- Between 2015 and 2021, customer count and revenue exhibit an approximately linear relationship. However, between 2022 and 2024, significant gaps emerge between the number of customers and net revenue — increases in customer numbers do not correspond to proportional increases in net revenue (Figure 2.1).
+  - This divergence aligns with the decreasing exponential trend observed in Figure 2.2, suggesting that revenue per customer is declining at an alarming rate.
+  - It also indicates that the 2022–2024 customer cohorts are consistently underperforming compared to earlier cohorts, as shown in Figure 2.2.
 
 **Business Insights**
 - Value extracted from customers is decreasing over time and needs more investigation.
