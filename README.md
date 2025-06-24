@@ -14,7 +14,7 @@ The project is inspired by the online course [SQL for Data Analytics – Interme
 
 - Categorized customers based on total lifetime value (LTV)
 - Calculated Key metrics: total revenue
-- Tiered customers to High, Mid, and Low-value segemts based on their revenue being above 75th, between 75th and 25th , or below 25th percentile of the total revenue respectively
+- Tiered customers into High-, Mid-, and Low-value segments based on their revenue: above the 75th percentile (High), between the 25th and 75th percentiles (Mid), and below the 25th percentile (Low) of total revenue.
 
 
 Related Query: [1_customer_segmentation.sql](/1_customer_segmentation.sql)
