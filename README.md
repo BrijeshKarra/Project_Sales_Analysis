@@ -2,7 +2,6 @@
 
 ## Overview
 This project analyzes sales and customer data for Contoso, a fictional e-commerce company by Microsoft. Using customer segmentation, cohort analysis, and retention modeling, the analysis identifies high-value segments, revenue trends, and churn risks. The findings support actionable strategies to improve retention, optimize marketing, and maximize revenue growth. 
-The project is inspired by the online course [SQL for Data Analytics – Intermediate Course + Project](https://www.lukebarousse.com/int-sql) by [Luke Barousse](https://github.com/lukebarousse).
 
 ## Business Questions
 1. **Customer Segmentation:** Who are our most valuable customers?
@@ -119,3 +118,7 @@ _Figure 3_
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL, DBeaver, PGadmin
 - **Visualization:** Google Gemini
+
+## Credits
+The project was inspired by the online course [SQL for Data Analytics – Intermediate Course + Project](https://www.lukebarousse.com/int-sql) by [Luke Barousse](https://github.com/lukebarousse).
+
